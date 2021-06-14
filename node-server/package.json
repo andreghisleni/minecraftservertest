@@ -1,0 +1,14 @@
+{
+  "name": "minecraftServerNode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./server"
+  },
+  "dependencies": {
+    "scriptserver": "^1.2.0",
+    "scriptserver-command": "^1.0.1",
+    "scriptserver-essentials": "^1.1.0"
+  }
+}

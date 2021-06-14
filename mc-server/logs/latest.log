@@ -1,0 +1,205 @@
+[00:00:29] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [23, 7] in dimension 0 (overworld) while populating chunk [24, 7], causing cascading worldgen lag.
+[00:00:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:00:29] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [22, 7] in dimension 0 (overworld) while populating chunk [24, 7], causing cascading worldgen lag.
+[00:00:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:00:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Andr3_G4m3r_HD has made the advancement [Networking Switchboard]
+[00:02:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Andr3_G4m3r_HD has made the advancement [Better Than Chests]
+[00:02:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Andr3_G4m3r_HD has made the advancement [Fluix Energy Connection]
+[00:02:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Andr3_G4m3r_HD has made the advancement [A (Much) Bigger Table]
+[00:07:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Andr3_G4m3r_HD: Given [Floral Brown Powder] * 64 to Andr3_G4m3r_HD]
+[00:07:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Andr3_G4m3r_HD has made the advancement [Recursive Networking]
+[00:09:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Andr3_G4m3r_HD has made the advancement [Network Apprentice]
+[00:11:11] [Server thread/INFO] []: filePath = /assets/rftools/gui/builder.gui
+[00:12:51] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [29, 4] in dimension 0 (overworld) while populating chunk [28, 4], causing cascading worldgen lag.
+[00:12:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:17:01] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [30, 3] in dimension 0 (overworld) while populating chunk [29, 3], causing cascading worldgen lag.
+[00:17:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:25:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Andr3_G4m3r_HD issued server command: /time set day
+[00:37:22] [Server thread/INFO] [FTB Utilities]: Andr3_G4m3r_HD is now AFK
+[00:45:50] [Server thread/INFO] [FTB Utilities]: Andr3_G4m3r_HD is no longer AFK
+[00:51:05] [Server thread/INFO] [FTB Utilities]: Andr3_G4m3r_HD is now AFK
+[00:58:25] [Server thread/INFO] [FTB Utilities]: Andr3_G4m3r_HD is no longer AFK
+[00:59:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Andr3_G4m3r_HD issued server command: /time set day
+[01:04:57] [Server thread/INFO] [FTB Utilities]: Andr3_G4m3r_HD is now AFK
+[01:13:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Server Backup started!
+[01:13:06] [File IO Thread/INFO] [FTB Backups]: Backing up 150 files...
+[01:13:06] [File IO Thread/INFO] [FTB Backups]: Compressing 150 files...
+[01:13:06] [Server thread/INFO] [FTB Backups]: [0 | 0%]: world/region/r.-1.1.mca
+[01:13:08] [File IO Thread/INFO] [FTB Backups]: Done compressing in 00:02 seconds (43.8MB)!
+[01:13:08] [File IO Thread/INFO] [FTB Backups]: Created /home/andre/tmp/minecraftServerNode/mc-server/./backups/2021-05-27-01-13-06.zip from /home/andre/tmp/minecraftServerNode/mc-server/./world
+[01:13:08] [File IO Thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Server backup done in 00:02! (43.8MB | 51.9MB)
+[03:13:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Server Backup started!
+[03:13:06] [File IO Thread/INFO] [FTB Backups]: Backing up 150 files...
+[03:13:06] [File IO Thread/INFO] [FTB Backups]: Compressing 150 files...
+[03:13:09] [File IO Thread/INFO] [FTB Backups]: Done compressing in 00:02 seconds (43.8MB)!
+[03:13:09] [File IO Thread/INFO] [FTB Backups]: Created /home/andre/tmp/minecraftServerNode/mc-server/./backups/2021-05-27-03-13-06.zip from /home/andre/tmp/minecraftServerNode/mc-server/./world
+[03:13:09] [File IO Thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Server backup done in 00:02! (43.8MB | 95.7MB)
+[05:13:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Server Backup started!
+[05:13:06] [File IO Thread/INFO] [FTB Backups]: Backing up 150 files...
+[05:13:06] [File IO Thread/INFO] [FTB Backups]: Compressing 150 files...
+[05:13:06] [Server thread/INFO] [FTB Backups]: [0 | 0%]: world/region/r.-1.1.mca
+[05:13:08] [File IO Thread/INFO] [FTB Backups]: Done compressing in 00:01 seconds (43.8MB)!
+[05:13:08] [File IO Thread/INFO] [FTB Backups]: Created /home/andre/tmp/minecraftServerNode/mc-server/./backups/2021-05-27-05-13-06.zip from /home/andre/tmp/minecraftServerNode/mc-server/./world
+[05:13:08] [File IO Thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Server backup done in 00:02! (43.8MB | 139.5MB)
+[05:13:31] [Craft Scheduler Thread - 12/INFO] [net.milkbowl.vault.Vault]: [Vault] Checking for Updates ... 
+[05:13:32] [Craft Scheduler Thread - 12/INFO] [net.milkbowl.vault.Vault]: [Vault] No new version available
+[07:13:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Server Backup started!
+[07:13:06] [File IO Thread/INFO] [FTB Backups]: Backing up 150 files...
+[07:13:06] [File IO Thread/INFO] [FTB Backups]: Compressing 150 files...
+[07:13:09] [File IO Thread/INFO] [FTB Backups]: Done compressing in 00:02 seconds (43.8MB)!
+[07:13:09] [File IO Thread/INFO] [FTB Backups]: Created /home/andre/tmp/minecraftServerNode/mc-server/./backups/2021-05-27-07-13-06.zip from /home/andre/tmp/minecraftServerNode/mc-server/./world
+[07:13:09] [File IO Thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Server backup done in 00:02! (43.8MB | 183.3MB)
+[09:13:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Server Backup started!
+[09:13:06] [File IO Thread/INFO] [FTB Backups]: Backing up 150 files...
+[09:13:06] [File IO Thread/INFO] [FTB Backups]: Compressing 150 files...
+[09:13:08] [File IO Thread/INFO] [FTB Backups]: Done compressing in 00:01 seconds (43.8MB)!
+[09:13:08] [File IO Thread/INFO] [FTB Backups]: Created /home/andre/tmp/minecraftServerNode/mc-server/./backups/2021-05-27-09-13-06.zip from /home/andre/tmp/minecraftServerNode/mc-server/./world
+[09:13:08] [File IO Thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Server backup done in 00:01! (43.8MB | 227.1MB)
+[09:30:31] [Server thread/INFO] [FTB Utilities]: Andr3_G4m3r_HD is no longer AFK
+[09:33:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Andr3_G4m3r_HD lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Conexão fechada pela outra ponta
+[09:33:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Andr3_G4m3r_HD left the game
+[09:33:07] [Server thread/WARN] [com.earth2me.essentials.Essentials]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[09:51:05] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Andr3_G4m3r_HD is 015eb089-3c3e-4b89-8344-ce6ea63e8775
+[09:51:05] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[09:51:06] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 167 mods : p455w0rdslib@2.3.161,astralsorcery@1.10.27,enderiointegrationforestry@5.2.60,questbook@3.1.1-1.12,vampirism_integrations@vampirism_integrations,universalmodifiers@1.12.2-1.0.16.1,rftools@7.73,cofhcore@4.6.6,draconicevolution@2.3.27,serverredirect@1.3.7,modnametooltip@1.10.1,endercore@1.12.2-0.5.76,forgeendertech@1.12.2-4.5.4.0,thaumicjei@1.6.0,reborncore@3.19.4.529,enderioendergy@5.2.60,ctm@MC1.12.2-1.0.2.31,betterquesting@3.5.329,placebo@1.6.0,reauth@3.6.0,forgelin@1.8.4,microblockcbe@2.6.2.83,stg@1.12.2-1.2.3,randompatches@1.12.2-1.22.1.3,uteamcore@2.2.5.147,wct@3.12.97,cofhworld@1.4.0,morpheus@1.12.2-3.5.106,waila@1.8.26,ftblib@5.4.7.2,enderioconduitsrefinedstorage@5.2.60,redstonearsenal@2.6.6,guideapi@1.12-2.1.8-63,jeresources@0.9.2.60,thaumcraft@6.1.BETA26,vampiresneedumbrellas@1.4,mcjtylib_ng@3.5.4,bq_standard@3.4.173,teamlapen-lib@1.6.2,mysticallib@1.12.2-1.9.0,enderioconduits@5.2.60,refinedstorage@1.6.15,immersivetech@1.3.10,techreborn@2.27.3.1084,flyringbaublemod@0.3.1_1.12-d4e654e,industrialforegoing@1.12.2-1.12.2,threng@1.1.25,tinkertoolleveling@1.12.2-1.1.0.DEV.b23e769,usefulbackpacks@1.5.3.59,unidict@1.12.2-2.9.6,crafttweakerjei@2.0.3,enderiomachines@5.2.60,mtlib@3.0.6,redstoneflux@2.1.1,valkyrielib@1.12.2-2.0.20.1,ironfurnaces@1.3.5,modtweaker@4.0.18,botania@r1.10-363,libnine@1.2.0,teslacorelib_registries@1.0.17,actuallyadditions@1.12.2-r151,etlunar@1.12.2-2.0.20.1,solarflux@12.4.11,patchouli@1.0-21,lunatriuscore@1.2.0.42,randomthings@4.2.7.3,advgenerators@0.9.20.12,teslacorelib@1.0.17,denseneutroncollectors@@VERSION@,elevatorid@1.3.14,gunpowderlib@1.12.2-1.0,FML@8.0.99.99,thermalexpansion@5.5.7,rftoolsdim@5.71,enderiointegrationtic@5.2.60,enderioconduitsappliedenergistics@5.2.60,mekanismtools@1.12.2-9.8.3.390,environmentaltech@1.12.2-2.0.20.1,deepmoblearning@1.12.2-2.5.4,moreoverlays@1.15.1,forgemultipartcbe@2.6.2.83,packagedavaritia@1.12.2-1.0.2.5,soundreloader@1.1,codechickenlib@3.2.3.358,badwithernocookiereloaded@1.12.2-3.3.16,fastleafdecay@v14,techreborn_compat@1.0.0,betteradvancements@0.1.0.77,danknull@1.7.91,craftpresence@1.7.1,clienttweaks@3.1.11,ctgui@1.0.0,extracells@2.6.5,ae2wtlib@1.0.34,simplyjetpacks@1.12.2-2.2.16.1,draconicadditions@1.14.1,jee@1.0.8,snad@1.12.1-1.7.09.16a,jei@4.15.0.291,mekanism@1.12.2-9.8.3.390,thermalfoundation@2.6.7,igi|thaumcraft@1.0a,bdlib@1.14.3.12,tcinventoryscan@2.0.10,mcp@9.42,clumps@3.1.2,journeymap@1.12.2-5.7.1,appliedenergistics2@rv6-stable-7,enderiointegrationticlate@5.2.60,adhooks@1.12.2-3.3.0.0,chameleon@1.12-4.1.3,conarm@1.2.5.9,surge@2.0.79,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,moartinkers@0.6.0,toastcontrol@1.8.1,crafttweaker@4.1.20,enderstorage@2.4.6.137,immersivepetroleum@1.1.9,forge@14.23.5.2855,bloodmagic@1.12.2-2.4.3-105,phosphor-lighting@1.12.2-0.2.6,brandonscore@2.4.19,ftbutilities@5.4.1.131,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,tcomplement@1.12.2-0.4.3,itlt@1.0.0,dupefixproject@3.0.1,theoneprobe@1.4.28,mousetweaks@2.10,avaritia@3.3.0,immersiveengineering@0.12-98,silentlib@3.0.13,baubles@1.5.2,packagedauto@1.12.2-1.0.5.17,thaumicenergistics@2.2.3,enderiopowertools@5.2.60,stevescarts@2.4.32.137,integrationforegoing@1.12.2-1.10,enderio@5.2.60,extrautils2@1.0,vanillafix@1.0.10-150,mantle@1.12-1.3.3.55,ftbbackups@1.1.0.1,fluxnetworks@4.0.14,storagedrawers@5.2.2,blockcraftery@1.12.2-1.3.1,schematica@1.8.0.169,enderiobase@5.2.60,refined_avaritia@2.6,fastfurnace@1.3.1,wanionlib@1.12.2-2.4,appleskin@1.0.14,ingameinfoxml@2.8.2.94,chisel@MC1.12.2-1.0.2.45,minecraftmultipartcbe@2.6.2.83,vampirism@1.6.2,enderioconduitsopencomputers@5.2.60,login_shield@1.12.2-6-g5654706,foamfix@0.10.10-1.12.2,tinkersjei@1.2,thaumicterminal@1.0.12,cosmeticarmorreworked@1.12.2-v4a,translocators@2.5.2.81
+[09:51:06] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[09:51:06] [Netty Epoll Server IO #0/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[09:51:10] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[09:51:10] [Server thread/INFO] [mcjtylib_ng]: SMP: Sync dimensions to client
+[09:51:10] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Andr3_G4m3r_HD'/141124, l='world', x=287.88, y=79.22, z=-65.91](Andr3_G4m3r_HD at 287.8835526461047,79.21814106384784,-65.91319017985667) connected. Sending ping
+[09:51:10] [Server thread/INFO] [EnderCore]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
+[09:51:10] [Server thread/INFO] [mcjtylib_ng]: SMP: Player logged in: Sync diminfo to clients
+[09:51:10] [Server thread/INFO] [mcjtylib_ng]: Send dimlet rules to the client
+[09:51:10] [Server thread/INFO] [mcjtylib_ng]: Rules packet size: 5779 of 8192
+[09:51:10] [Server thread/INFO] [Actually Additions]: Sending Player Data to player Andr3_G4m3r_HD with UUID 015eb089-3c3e-4b89-8344-ce6ea63e8775.
+[09:51:10] [Server thread/INFO] [Mekanism]: Sent config to 'Andr3_G4m3r_HD.'
+[09:51:10] [Server thread/ERROR] [FML]: FMLIndexedMessageCodec exception caught
+io.netty.handler.codec.EncoderException: java.lang.RuntimeException: Undefined discriminator for message type com.github.lunatrius.ingameinfo.network.message.MessageSeed in channel ingameinfoxml
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:106) ~[netty-all-4.1.24.Final.jar:4.1.24.Final]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[netty-all-4.1.24.Final.jar:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[netty-all-4.1.24.Final.jar:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[netty-all-4.1.24.Final.jar:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[netty-all-4.1.24.Final.jar:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[netty-all-4.1.24.Final.jar:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[netty-all-4.1.24.Final.jar:4.1.24.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1071) ~[netty-all-4.1.24.Final.jar:4.1.24.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:300) ~[netty-all-4.1.24.Final.jar:4.1.24.Final]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendTo(SimpleNetworkWrapper.java:250) [SimpleNetworkWrapper.class:git-CatServer-1.12.2-92b87c7]
+	at com.github.lunatrius.ingameinfo.handler.PlayerHandler.onPlayerLogin(PlayerHandler.java:15) [PlayerHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1440_PlayerHandler_onPlayerLogin_PlayerLoggedInEvent.invoke(.dynamic) [?:git-CatServer-1.12.2-92b87c7]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:git-CatServer-1.12.2-92b87c7]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:190) [EventBus.class:git-CatServer-1.12.2-92b87c7]
+	at net.minecraftforge.fml.common.FMLCommonHandler.firePlayerLoggedIn(FMLCommonHandler.java:579) [FMLCommonHandler.class:git-CatServer-1.12.2-92b87c7]
+	at net.minecraft.server.management.PlayerList.initializeConnectionToPlayer(PlayerList.java:292) [pl.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.completeServerSideConnection(NetworkDispatcher.java:260) [NetworkDispatcher.class:git-CatServer-1.12.2-92b87c7]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.access$100(NetworkDispatcher.java:72) [NetworkDispatcher.class:git-CatServer-1.12.2-92b87c7]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher$1.update(NetworkDispatcher.java:205) [NetworkDispatcher$1.class:git-CatServer-1.12.2-92b87c7]
+	at net.minecraft.network.NetworkManager.processReceivedPackets(NetworkManager.java:235) [gw.class:?]
+	at net.minecraft.network.NetworkSystem.networkTick(NetworkSystem.java:187) [oz.class:?]
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:935) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.updateTimeLightAndEntities(DedicatedServer.java:474) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:770) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:630) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_292]
+Caused by: java.lang.RuntimeException: Undefined discriminator for message type com.github.lunatrius.ingameinfo.network.message.MessageSeed in channel ingameinfoxml
+	at net.minecraftforge.fml.common.network.FMLIndexedMessageToMessageCodec.encode(FMLIndexedMessageToMessageCodec.java:77) ~[FMLIndexedMessageToMessageCodec.class:git-CatServer-1.12.2-92b87c7]
+	at io.netty.handler.codec.MessageToMessageCodec$1.encode(MessageToMessageCodec.java:67) ~[netty-all-4.1.24.Final.jar:4.1.24.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:88) ~[netty-all-4.1.24.Final.jar:4.1.24.Final]
+	... 25 more
+[09:51:10] [Server thread/WARN] [io.netty.channel.embedded.EmbeddedChannel]: More than one exception was raised. Will report only the first one and log others.
+io.netty.handler.codec.EncoderException: java.lang.RuntimeException: Undefined discriminator for message type com.github.lunatrius.ingameinfo.network.message.MessageSeed in channel ingameinfoxml
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:106) ~[netty-all-4.1.24.Final.jar:4.1.24.Final]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[netty-all-4.1.24.Final.jar:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[netty-all-4.1.24.Final.jar:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[netty-all-4.1.24.Final.jar:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[netty-all-4.1.24.Final.jar:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[netty-all-4.1.24.Final.jar:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[netty-all-4.1.24.Final.jar:4.1.24.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1071) ~[netty-all-4.1.24.Final.jar:4.1.24.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:300) ~[netty-all-4.1.24.Final.jar:4.1.24.Final]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendTo(SimpleNetworkWrapper.java:250) [SimpleNetworkWrapper.class:git-CatServer-1.12.2-92b87c7]
+	at com.github.lunatrius.ingameinfo.handler.PlayerHandler.onPlayerLogin(PlayerHandler.java:15) [PlayerHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1440_PlayerHandler_onPlayerLogin_PlayerLoggedInEvent.invoke(.dynamic) [?:git-CatServer-1.12.2-92b87c7]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:git-CatServer-1.12.2-92b87c7]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:190) [EventBus.class:git-CatServer-1.12.2-92b87c7]
+	at net.minecraftforge.fml.common.FMLCommonHandler.firePlayerLoggedIn(FMLCommonHandler.java:579) [FMLCommonHandler.class:git-CatServer-1.12.2-92b87c7]
+	at net.minecraft.server.management.PlayerList.initializeConnectionToPlayer(PlayerList.java:292) [pl.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.completeServerSideConnection(NetworkDispatcher.java:260) [NetworkDispatcher.class:git-CatServer-1.12.2-92b87c7]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.access$100(NetworkDispatcher.java:72) [NetworkDispatcher.class:git-CatServer-1.12.2-92b87c7]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher$1.update(NetworkDispatcher.java:205) [NetworkDispatcher$1.class:git-CatServer-1.12.2-92b87c7]
+	at net.minecraft.network.NetworkManager.processReceivedPackets(NetworkManager.java:235) [gw.class:?]
+	at net.minecraft.network.NetworkSystem.networkTick(NetworkSystem.java:187) [oz.class:?]
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:935) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.updateTimeLightAndEntities(DedicatedServer.java:474) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:770) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:630) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_292]
+Caused by: java.lang.RuntimeException: Undefined discriminator for message type com.github.lunatrius.ingameinfo.network.message.MessageSeed in channel ingameinfoxml
+	at net.minecraftforge.fml.common.network.FMLIndexedMessageToMessageCodec.encode(FMLIndexedMessageToMessageCodec.java:77) ~[FMLIndexedMessageToMessageCodec.class:git-CatServer-1.12.2-92b87c7]
+	at io.netty.handler.codec.MessageToMessageCodec$1.encode(MessageToMessageCodec.java:67) ~[netty-all-4.1.24.Final.jar:4.1.24.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:88) ~[netty-all-4.1.24.Final.jar:4.1.24.Final]
+	... 25 more
+[09:51:10] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Andr3_G4m3r_HD...
+[09:51:10] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Andr3_G4m3r_HD[/127.0.0.1:45950] logged in with entity id 141124 at ([world]287.8835526461047, 79.21814106384784, -65.91319017985667)
+[09:51:10] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Andr3_G4m3r_HD
+[09:51:10] [Server thread/WARN] [com.earth2me.essentials.Essentials]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[09:56:13] [Server thread/INFO] [FTB Utilities]: Andr3_G4m3r_HD is now AFK
+[09:58:45] [Server thread/INFO] [FTB Utilities]: Andr3_G4m3r_HD is no longer AFK
+[10:04:06] [Server thread/INFO] [FTB Utilities]: Andr3_G4m3r_HD is now AFK
+[11:13:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Server Backup started!
+[11:13:06] [File IO Thread/INFO] [FTB Backups]: Backing up 150 files...
+[11:13:06] [File IO Thread/INFO] [FTB Backups]: Compressing 150 files...
+[11:13:08] [File IO Thread/INFO] [FTB Backups]: Done compressing in 00:02 seconds (43.8MB)!
+[11:13:08] [File IO Thread/INFO] [FTB Backups]: Created /home/andre/tmp/minecraftServerNode/mc-server/./backups/2021-05-27-11-13-06.zip from /home/andre/tmp/minecraftServerNode/mc-server/./world
+[11:13:08] [File IO Thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Server backup done in 00:02! (43.8MB | 271.0MB)
+[11:13:41] [Craft Scheduler Thread - 17/INFO] [net.milkbowl.vault.Vault]: [Vault] Checking for Updates ... 
+[11:13:42] [Craft Scheduler Thread - 17/INFO] [net.milkbowl.vault.Vault]: [Vault] No new version available
+[11:58:11] [Server thread/INFO] [FTB Utilities]: Andr3_G4m3r_HD is no longer AFK
+[12:12:21] [Server thread/INFO] [FTB Utilities]: Andr3_G4m3r_HD is now AFK
+[13:13:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Server Backup started!
+[13:13:06] [File IO Thread/INFO] [FTB Backups]: Backing up 151 files...
+[13:13:06] [File IO Thread/INFO] [FTB Backups]: Compressing 151 files...
+[13:13:08] [File IO Thread/INFO] [FTB Backups]: Done compressing in 00:02 seconds (43.9MB)!
+[13:13:08] [File IO Thread/INFO] [FTB Backups]: Created /home/andre/tmp/minecraftServerNode/mc-server/./backups/2021-05-27-13-13-06.zip from /home/andre/tmp/minecraftServerNode/mc-server/./world
+[13:13:08] [File IO Thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Server backup done in 00:02! (43.9MB | 314.8MB)
+[13:23:14] [Server thread/INFO] [FTB Utilities]: Andr3_G4m3r_HD is no longer AFK
+[13:37:45] [Server thread/INFO] [FTB Utilities]: Andr3_G4m3r_HD is now AFK
+[13:44:48] [Server thread/INFO] [FTB Utilities]: Andr3_G4m3r_HD is no longer AFK
+[13:50:08] [Server thread/INFO] [FTB Utilities]: Andr3_G4m3r_HD is now AFK
+[14:24:21] [Thread-23/WARN] [THAUMCRAFT]: AURAS TAKING 561 ms LONGER THAN NORMAL IN DIM 0
+[14:24:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Andr3_G4m3r_HD lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Conexão fechada pela outra ponta
+[14:24:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Andr3_G4m3r_HD left the game
+[14:24:44] [Server thread/WARN] [com.earth2me.essentials.Essentials]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[15:13:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Server Backup started!
+[15:13:06] [File IO Thread/INFO] [FTB Backups]: Backing up 151 files...
+[15:13:06] [File IO Thread/INFO] [FTB Backups]: Compressing 151 files...
+[15:13:06] [Server thread/INFO] [FTB Backups]: [0 | 0%]: world/region/r.-1.1.mca
+[15:13:09] [File IO Thread/INFO] [FTB Backups]: Done compressing in 00:02 seconds (43.9MB)!
+[15:13:09] [File IO Thread/INFO] [FTB Backups]: Created /home/andre/tmp/minecraftServerNode/mc-server/./backups/2021-05-27-15-13-06.zip from /home/andre/tmp/minecraftServerNode/mc-server/./world
+[15:13:09] [File IO Thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Server backup done in 00:02! (43.9MB | 358.7MB)
+[17:13:53] [Craft Scheduler Thread - 19/INFO] [net.milkbowl.vault.Vault]: [Vault] Checking for Updates ... 
+[17:13:55] [Craft Scheduler Thread - 19/INFO] [net.milkbowl.vault.Vault]: [Vault] No new version available
+[17:27:09] [Thread-2/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[17:27:09] [Thread-2/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[17:27:09] [Thread-2/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[17:27:09] [Thread-2/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[17:27:10] [Thread-2/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM-1'/the_nether
+[17:27:10] [Thread-2/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM1'/the_end
+[17:27:10] [Thread-2/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM-343800852'/Spectre
+[17:27:10] [Thread-2/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM-9999'/ExtraUtils2_Quarry_Dim
+[17:27:10] [Thread-2/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM-11325'/Deep Dark
+[17:27:10] [Thread-2/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM2'/Storage Cell
+[17:27:10] [Thread-2/INFO] [THAUMCRAFT]: Removing aura cache for world 0
+[17:27:10] [Thread-2/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[17:27:10] [Thread-2/INFO] [THAUMCRAFT]: Removing aura cache for world 1
+[17:27:10] [Thread-2/INFO] [THAUMCRAFT]: Removing aura cache for world -343800852
+[17:27:10] [Thread-2/INFO] [THAUMCRAFT]: Removing aura cache for world -9999
+[17:27:10] [Thread-2/INFO] [THAUMCRAFT]: Removing aura cache for world -11325
+[17:27:10] [Thread-2/INFO] [THAUMCRAFT]: Removing aura cache for world 2
+[17:27:10] [Thread-2/INFO] [FML]: Unloading dimension 0
+[17:27:10] [Thread-2/INFO] [FML]: Unloading dimension -1
+[17:27:10] [Thread-2/INFO] [FML]: Unloading dimension 1
+[17:27:10] [Thread-2/INFO] [FML]: Unloading dimension -343800852
+[17:27:10] [Thread-2/INFO] [FML]: Unloading dimension -9999
+[17:27:10] [Thread-2/INFO] [FML]: Unloading dimension -11325
+[17:27:10] [Thread-2/INFO] [FML]: Unloading dimension 2
